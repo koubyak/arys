@@ -1,6 +1,5 @@
 # arys
 Odoo 8 Module for Dance Studio Management
-=====================
 
 arys is a fully open source ERP system for dance studio management including students, courses and classes keeping a collaborative platform.
 
